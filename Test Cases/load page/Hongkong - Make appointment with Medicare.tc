@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Hongkong - Make appointment with Medicare</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94ea1e2f-d2a1-49d4-aef2-653ed84ff2bb</testCaseGuid>
+</TestCaseEntity>

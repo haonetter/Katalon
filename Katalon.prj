@@ -11,6 +11,7 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Source code\Katalon\Katalon.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

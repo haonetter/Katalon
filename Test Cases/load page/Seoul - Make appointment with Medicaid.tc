@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Seoul - Make appointment with Medicaid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f038b425-d2fc-4143-bdd7-cf4f9136cbed</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Seoul - Make appointment with None option</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1f1b050-c5f0-4759-ad40-e852e7dbe4dc</testCaseGuid>
+</TestCaseEntity>

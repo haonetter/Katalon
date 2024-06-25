@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tokyo - Make appointment with none option</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d435735-9a28-4e53-b37f-09758d24028f</testCaseGuid>
+</TestCaseEntity>

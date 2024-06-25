@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HongKong - Make appointment with None option</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f26c3d5-c0da-45d4-9a3f-d9e196648ef2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Seoul - Make appointment with Medicare</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>024164e2-19d3-4c3a-9dc6-ed3d8c211141</testCaseGuid>
+</TestCaseEntity>

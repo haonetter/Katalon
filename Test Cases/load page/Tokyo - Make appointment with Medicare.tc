@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tokyo - Make appointment with Medicare</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68d8e32c-6301-4fb0-bb37-5b7913e2608d</testCaseGuid>
+</TestCaseEntity>

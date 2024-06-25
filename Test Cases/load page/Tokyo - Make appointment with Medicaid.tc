@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tokyo - Make appointment with Medicaid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9368b9f7-6db2-4131-8972-6728b9687326</testCaseGuid>
+</TestCaseEntity>

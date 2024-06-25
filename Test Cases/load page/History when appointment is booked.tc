@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>History when appointment is booked</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f66b9f8-c1b2-456c-8183-056dccc54337</testCaseGuid>
+</TestCaseEntity>

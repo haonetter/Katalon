@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tokyo - Make appointment with Medicaid - Apply for hospital readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47f61f99-0e5a-4bfd-a0fe-dc316972aa9b</testCaseGuid>
+</TestCaseEntity>
