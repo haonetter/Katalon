@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Seoul - Make appointment with Medicaid - Apply for hospital readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45fcf239-a50b-476a-a010-3875866936f2</testCaseGuid>
+</TestCaseEntity>

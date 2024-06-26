@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Seoul - Make appointment with None option - Apply for hospital readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1db0107a-7850-4f83-a4bf-73c5be2df5bd</testCaseGuid>
+</TestCaseEntity>

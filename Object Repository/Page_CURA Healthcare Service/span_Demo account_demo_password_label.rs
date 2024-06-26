@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_5</name>
+   <name>span_Demo account_demo_password_label</name>
    <tag></tag>
-   <elementGuidId>6520cdc0-d9eb-4f72-adf7-696a9cf2ca78</elementGuidId>
+   <elementGuidId>2c7dd2eb-50c4-485a-a829-56a7136843f8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#demo_password_label</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[11]</value>
+         <value>//span[@id='demo_password_label']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=cell[name=&quot;5&quot;i] >> nth=0</value>
+         <value>#demo_password_label</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>e184767d-1bf7-4c7c-803d-a21ea3494c2a</webElementGuid>
+      <value>span</value>
+      <webElementGuid>764183a0-de19-4138-83ee-2f46b8b90cf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>day</value>
-      <webElementGuid>d7b456f1-348f-4e4b-86d5-3937951ac783</webElementGuid>
+      <value>input-group-addon</value>
+      <webElementGuid>f05f9159-0486-4130-a048-caf7581809ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>id</name>
       <type>Main</type>
-      <value>5</value>
-      <webElementGuid>e3aa7e74-1fa9-4728-afb9-bf6a5d9926e3</webElementGuid>
+      <value>demo_password_label</value>
+      <webElementGuid>6407c59d-41d4-4f0b-84a5-bfc38f2f883e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[2]/td[@class=&quot;day&quot;]</value>
-      <webElementGuid>0f4dbbc5-a6f4-430e-ae3e-baa98098d2d2</webElementGuid>
+      <value>id(&quot;demo_password_label&quot;)</value>
+      <webElementGuid>fb53eb8a-3fd1-40c8-9bad-0d343eb86367</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[11]</value>
-      <webElementGuid>d4fee8e2-b699-4019-9ad0-bf9866e8ad99</webElementGuid>
+      <value>//span[@id='demo_password_label']</value>
+      <webElementGuid>2da50f12-228d-44a8-aecb-f61a63aa7cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='login']/div/div/div[2]/form/div/div[2]/div/div/span</value>
+      <webElementGuid>f311f3a0-30f1-408a-bd66-aa67774eb887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[11]</value>
-      <webElementGuid>c3a3fccf-4c27-4553-b315-fcaa67b2d8b0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo account'])[1]/following::span[3]</value>
+      <webElementGuid>38290f69-1e5f-4e41-9a05-830e3ca1857c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[32]</value>
-      <webElementGuid>c1d8cde0-8fea-498c-bd4f-cd51e4f72b63</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::span[3]</value>
+      <webElementGuid>073c4d0b-1c50-4fe2-b3e7-539400bb164b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[32]</value>
-      <webElementGuid>577ddb0b-23c1-41ad-87ec-cd8e65efbfd2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::span[2]</value>
+      <webElementGuid>18637c3c-7efc-4094-a524-f1786f08ae1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='5']/parent::*</value>
-      <webElementGuid>3bd5db09-2099-479f-945f-bc20c019083e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::span[2]</value>
+      <webElementGuid>7beab8ef-6ee6-4112-8d8c-2193b3d630ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td[4]</value>
-      <webElementGuid>b387376b-0b7a-43da-a6a2-9b1d1ef50a50</webElementGuid>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>dae7d843-e0d5-4862-826e-0c661b4c9ec1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = '5' or . = '5')]</value>
-      <webElementGuid>b2101466-cdee-45ae-8557-c9f9691d954d</webElementGuid>
+      <value>//span[@id = 'demo_password_label']</value>
+      <webElementGuid>74a761a4-e490-4b02-9b50-8e6026d7fdf7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

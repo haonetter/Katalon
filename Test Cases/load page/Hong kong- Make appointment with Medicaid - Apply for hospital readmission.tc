@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Hong kong- Make appointment with Medicaid - Apply for hospital readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd9b1b79-15ce-462a-b1bf-0e213bcd25b7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Hong kong- Make appointment with Medicare - Apply for hospital readmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c735fdd0-42e6-4081-8003-f50f99235817</testCaseGuid>
+</TestCaseEntity>
